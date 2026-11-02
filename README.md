@@ -46,6 +46,16 @@
 
 **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,azure,githubactions,git,github,linux" />
+</p>
+
 ---
 
 ## 💼 Experience
