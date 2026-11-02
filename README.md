@@ -131,13 +131,5 @@ I'm always interested in learning, collaborating and building meaningful project
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25durgesh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25durgesh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=25durgesh&theme=tokyonight&hide_border=true" />
 </p>
